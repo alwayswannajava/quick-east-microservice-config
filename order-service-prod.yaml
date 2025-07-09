@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 orders:
-  message: "Welcome to quick-eats order microservice production APIs "
+  message: "Welcome to quick-eats order microservice prod APIs "
   contactDetails:
     name: "Vasilyi Shevchenko - Product Owner"
     email: "vasylyi.shevchenko@ukr.net"
